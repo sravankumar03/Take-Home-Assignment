@@ -16,39 +16,9 @@ The schema models a complete Asana-like workspace with 12 tables supporting:
 
 ### Entity-Relationship Diagram
 
-```
-┌─────────────────┐
-│  organizations  │
-│  (1 per sim)    │
-└────────┬────────┘
-         │ 1:N
-         ▼
-┌─────────────────┐        ┌─────────────────┐
-│     teams       │───────▶│    projects     │
-│  (departments)  │   1:N  │   (workstreams) │
-└────────┬────────┘        └────────┬────────┘
-         │ M:N                      │ 1:N
-         ▼                          ▼
-┌─────────────────┐        ┌─────────────────┐
-│     users       │        │    sections     │
-│  (employees)    │        │  (kanban cols)  │
-└────────┬────────┘        └────────┬────────┘
-         │                          │ 1:N
-         │                          ▼
-         │                 ┌─────────────────┐
-         └────────────────▶│     tasks       │◀─────┐
-            assigns        │  (work items)   │      │
-                          └────────┬────────┘      │
-                                   │ 1:N           │ parent
-                                   ▼               │
-                          ┌─────────────────┐      │
-                          │    comments     │      │
-                          │   (stories)     │      │
-                          └─────────────────┘
-                          
-                          tasks.parent_task_id ────┘
-                          (subtask hierarchy)
-```
+<p align="center">
+  <img src="ER_.png" alt="Entity Relationship Diagram" width="800">
+</p>
 
 ### Table Definitions
 
