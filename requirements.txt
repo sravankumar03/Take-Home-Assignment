@@ -1,0 +1,10 @@
+# Core dependencies
+faker>=18.0.0
+
+# No additional dependencies required - uses Python stdlib:
+# - sqlite3 (database)
+# - uuid (ID generation)
+# - random (distributions)
+# - datetime (temporal data)
+# - json (data loading)
+# - logging (diagnostics)

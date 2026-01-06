@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Smith",
+        "weight": 2.376
+    },
+    {
+        "name": "Johnson",
+        "weight": 1.935
+    },
+    {
+        "name": "Williams",
+        "weight": 1.635
+    },
+    {
+        "name": "Brown",
+        "weight": 1.437
+    },
+    {
+        "name": "Jones",
+        "weight": 1.362
+    },
+    {
+        "name": "Garcia",
+        "weight": 1.166
+    },
+    {
+        "name": "Miller",
+        "weight": 1.161
+    },
+    {
+        "name": "Davis",
+        "weight": 1.116
+    },
+    {
+        "name": "Rodriguez",
+        "weight": 1.094
+    },
+    {
+        "name": "Martinez",
+        "weight": 1.060
+    },
+    {
+        "name": "Hernandez",
+        "weight": 1.043
+    },
+    {
+        "name": "Lopez",
+        "weight": 0.973
+    },
+    {
+        "name": "Gonzalez",
+        "weight": 0.966
+    },
+    {
+        "name": "Wilson",
+        "weight": 0.843
+    },
+    {
+        "name": "Anderson",
+        "weight": 0.784
+    },
+    {
+        "name": "Thomas",
+        "weight": 0.761
+    },
+    {
+        "name": "Taylor",
+        "weight": 0.751
+    },
+    {
+        "name": "Moore",
+        "weight": 0.724
+    },
+    {
+        "name": "Jackson",
+        "weight": 0.708
+    },
+    {
+        "name": "Martin",
+        "weight": 0.678
+    },
+    {
+        "name": "Lee",
+        "weight": 0.693
+    },
+    {
+        "name": "Perez",
+        "weight": 0.681
+    },
+    {
+        "name": "Thompson",
+        "weight": 0.669
+    },
+    {
+        "name": "White",
+        "weight": 0.660
+    },
+    {
+        "name": "Harris",
+        "weight": 0.624
+    },
+    {
+        "name": "Sanchez",
+        "weight": 0.612
+    },
+    {
+        "name": "Clark",
+        "weight": 0.575
+    },
+    {
+        "name": "Ramirez",
+        "weight": 0.568
+    },
+    {
+        "name": "Lewis",
+        "weight": 0.562
+    },
+    {
+        "name": "Robinson",
+        "weight": 0.548
+    },
+    {
+        "name": "Walker",
+        "weight": 0.541
+    },
+    {
+        "name": "Young",
+        "weight": 0.529
+    },
+    {
+        "name": "Allen",
+        "weight": 0.496
+    },
+    {
+        "name": "King",
+        "weight": 0.491
+    },
+    {
+        "name": "Wright",
+        "weight": 0.483
+    },
+    {
+        "name": "Scott",
+        "weight": 0.481
+    },
+    {
+        "name": "Torres",
+        "weight": 0.478
+    },
+    {
+        "name": "Nguyen",
+        "weight": 0.476
+    },
+    {
+        "name": "Hill",
+        "weight": 0.474
+    },
+    {
+        "name": "Flores",
+        "weight": 0.467
+    },
+    {
+        "name": "Green",
+        "weight": 0.459
+    },
+    {
+        "name": "Adams",
+        "weight": 0.442
+    },
+    {
+        "name": "Nelson",
+        "weight": 0.439
+    },
+    {
+        "name": "Baker",
+        "weight": 0.425
+    },
+    {
+        "name": "Hall",
+        "weight": 0.423
+    },
+    {
+        "name": "Rivera",
+        "weight": 0.419
+    },
+    {
+        "name": "Campbell",
+        "weight": 0.415
+    },
+    {
+        "name": "Mitchell",
+        "weight": 0.409
+    },
+    {
+        "name": "Carter",
+        "weight": 0.407
+    },
+    {
+        "name": "Roberts",
+        "weight": 0.398
+    },
+    {
+        "name": "Patel",
+        "weight": 0.520
+    },
+    {
+        "name": "Kim",
+        "weight": 0.480
+    },
+    {
+        "name": "Shah",
+        "weight": 0.350
+    },
+    {
+        "name": "Chen",
+        "weight": 0.450
+    },
+    {
+        "name": "Wang",
+        "weight": 0.420
+    },
+    {
+        "name": "Singh",
+        "weight": 0.380
+    },
+    {
+        "name": "Kumar",
+        "weight": 0.400
+    },
+    {
+        "name": "Sharma",
+        "weight": 0.350
+    },
+    {
+        "name": "Gupta",
+        "weight": 0.320
+    },
+    {
+        "name": "Wong",
+        "weight": 0.300
+    },
+    {
+        "name": "Liu",
+        "weight": 0.340
+    },
+    {
+        "name": "Zhang",
+        "weight": 0.380
+    },
+    {
+        "name": "Huang",
+        "weight": 0.300
+    },
+    {
+        "name": "Yang",
+        "weight": 0.280
+    },
+    {
+        "name": "Tanaka",
+        "weight": 0.250
+    },
+    {
+        "name": "Sato",
+        "weight": 0.240
+    },
+    {
+        "name": "Suzuki",
+        "weight": 0.230
+    },
+    {
+        "name": "Yamamoto",
+        "weight": 0.220
+    },
+    {
+        "name": "Nakamura",
+        "weight": 0.210
+    },
+    {
+        "name": "Kobayashi",
+        "weight": 0.200
+    },
+    {
+        "name": "O'Brien",
+        "weight": 0.280
+    },
+    {
+        "name": "Murphy",
+        "weight": 0.320
+    },
+    {
+        "name": "Kelly",
+        "weight": 0.300
+    },
+    {
+        "name": "Sullivan",
+        "weight": 0.260
+    },
+    {
+        "name": "Cohen",
+        "weight": 0.240
+    },
+    {
+        "name": "Levy",
+        "weight": 0.220
+    },
+    {
+        "name": "Ivanov",
+        "weight": 0.200
+    },
+    {
+        "name": "Petrov",
+        "weight": 0.190
+    },
+    {
+        "name": "Mueller",
+        "weight": 0.210
+    },
+    {
+        "name": "Schmidt",
+        "weight": 0.240
+    }
+]
